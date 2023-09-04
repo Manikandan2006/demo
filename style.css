@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    
+
+}
+
+h1,ul,li{
+    display: inline;
+}
+ ul{
+   
+    margin-left: 60%;
+ }
+
+ li{
+    color:antiquewhite;
+    cursor: pointer;
+ }
+ li:hover{
+    color: white;
+ }
+
+input{
+    width: 60%;
+    padding: 10px;
+}
+
+.search{
+    padding: 30px;
+    text-align: center;
+}
+
+.box{
+   border-width: 2px;
+   border-color: black;
+    border: solid;
+    display: inline-block;
+    width: 220px;
+    text-align: center;
+}
+
+.box:hover{
+    background-color: black;
+    color: white;
+}
+
+.movies{
+    text-align: center;
+
+}
+
+.moviestwo{
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.moviesthree{
+    text-align: center;
+}
+
+.moviesfor{
+    padding: 20px;
+    text-align: center;
+}
+
+.boxo{
+    border-width: 2px;
+    border-color: black;
+     border: solid;
+     display: inline-block;
+     width: 440px;
+     text-align: center;
+}
+.boxo:hover{
+    background-color:red;
+    color: black;
+}
+
+.about{
+    text-align: center;
+    padding: 15px;
+}
+
+.contact{
+    background-color: black;
+    text-align: center;
+    color: antiquewhite;
+    padding: 15px;
+}
